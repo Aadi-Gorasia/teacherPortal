@@ -1,0 +1,1670 @@
+{
+  "schools": [
+    {
+      "id": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "High School",
+      "joinCode": "E2E38CBA",
+      "maxWeeklyCover": 8,
+      "createdAt": "2026-09-09T19:40:42.262Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Aadi Gorasia",
+      "email": "aadi@highschool.com",
+      "role": "admin",
+      "passwordHash": {
+        "salt": "aaef22b8938873b1e3258bf12125e0cb",
+        "value": "cd1a2fee7664b7d301227e9ed421945844ea14a0cdd8b30ee5b19e607480e7ea"
+      },
+      "recoveryHash": "1c8dd899ef16a82bf0d744a8a98099a5649e0168aa7ae8ed8d70a038e00d14ee",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-09T19:40:42.320Z"
+    },
+    {
+      "id": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher 1",
+      "email": "teacher1@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "9af9cdd5255d246c2ebe8de07504eda6",
+        "value": "56c9567166e21ac6ca53741e4251c22aa141440bcbfc6e3c74e5004e1f1fe8ec"
+      },
+      "recoveryHash": "50f34dc08636abcd066ae5065d054c749790be3517f7c1bd2c165267f481902a",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-09T19:42:14.868Z"
+    },
+    {
+      "id": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher 2",
+      "email": "teacher2@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "f61ffcb2031bd12d33fc0840bffe70c3",
+        "value": "bdd59f946d9110aafbd75c2181491117dcd179dac4f03c90123a2682527af232"
+      },
+      "recoveryHash": "4bf1b6dbbf3208a19d55a308de9bcbbb0c1665fe9876708d2692f15a2ab87fcc",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-10T04:44:45.018Z"
+    },
+    {
+      "id": "u_f9f4f205-3ba1-4912-9cf0-46635f652d9c",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher3",
+      "email": "teacher3@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "3c1e36e2dd210ad0f7fc76899add6fa3",
+        "value": "d7b3345f376db4ddb5c01df6fa3adf5dd445efa76c1a4a1de915a3642a1c3e74"
+      },
+      "recoveryHash": "675346b4fdc22a03e3db749e1bc8711f45405c9b9e125d75043389b95e0c6e0a",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:32:12.073Z"
+    },
+    {
+      "id": "u_90a1f874-7e5f-4152-83fc-087af63dcdc6",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher4",
+      "email": "teacher4@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "a483fd32e73a0fd9e490b0411f4a3c70",
+        "value": "d5ed00466b07a7b523a6367de3a7eadf8c5eaa89f5105a27daed9f080f44f9a1"
+      },
+      "recoveryHash": "681016f28d4d584ea4b1401ad47a6f0a6a0c18e7e286c042b47dc56c895a16e1",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:34:33.572Z"
+    },
+    {
+      "id": "u_6a816d86-d3c2-4158-8f99-b24b396032db",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher5",
+      "email": "teacher5@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "5b08fdef2b7e53327104a4009ed5c0c8",
+        "value": "8806350c6bbfe67ddeb4430cddf9e7e12785da60c1f421e3fa6adc71d1ccb882"
+      },
+      "recoveryHash": "39fe734d1baa882eecef929e9cbfbbbccc883910fbd36eb3a07ec61b7b6f146e",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:35:07.838Z"
+    },
+    {
+      "id": "u_a5c5cbd5-8bbe-4283-b9f9-bfd08c6ac402",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher6",
+      "email": "teacher6@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "689418a4bacca7932f633870ff14e9fb",
+        "value": "d58950ad5e6ab78159ce58c65048cfcf22931e82fbfe0120d24cfeca37304bb1"
+      },
+      "recoveryHash": "dfaf6880a5e631b589487523d005bcd3e443b0e1f07a8a42549873b0936e33bf",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:35:44.344Z"
+    },
+    {
+      "id": "u_32e30a15-1a2c-4e5e-a503-21a1f878b33b",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher7",
+      "email": "teacher7@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "363cf8eb054601447cd9ce5a9078d4c3",
+        "value": "c262be69d17a1fd5b0f70defacd2a0d9479380029418b425f324828efce4cd82"
+      },
+      "recoveryHash": "82bd15c1f285a370e079b50f3758ec669ba128ecef630698276eda33290eeed5",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:36:18.568Z"
+    },
+    {
+      "id": "u_a583e0f9-6a36-42c1-9ab7-e53a56de17f7",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher8",
+      "email": "teacher8@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "3c101ac6eb28908d971aaf500a81cf42",
+        "value": "aafff206c689cfe0dd95fd1f622d9066f098f5f2d07c97d2136d7b876176d79c"
+      },
+      "recoveryHash": "202131201499127918ea9088e8d62a1f892af5835f3b0d4fdbb6a58add750974",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:36:45.702Z"
+    },
+    {
+      "id": "u_269a948d-6271-4058-9c9c-46a841fc7639",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher9",
+      "email": "teacher9@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "70b49da3fcb05536fb4296af47ad3554",
+        "value": "1deddab81b50bd29a4112978b90e141fc2d647fe94c9145f72ade512924078e3"
+      },
+      "recoveryHash": "20d0a388edbd15efc219fb5f5729f860454bdd4b833abe21fbfe4b86d850c65d",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:37:40.605Z"
+    },
+    {
+      "id": "u_6d2bd423-c1eb-4af6-bb38-66921c3e0e5f",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher10",
+      "email": "teacher10@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "fc42e5b169b6935cae49e9b188609d28",
+        "value": "2b235359335ffd46cdfede95e236212dfea982efbba5aaeb020fc6080532d4e3"
+      },
+      "recoveryHash": "eeac4fa8af94d5c24828e1e8f93359866344b1f0a7d9c3bf41f0e7e44f105e61",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:38:13.125Z"
+    },
+    {
+      "id": "u_1d916729-c2f5-40ab-b0e5-2138e0fd43b3",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher11",
+      "email": "teacher11@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "760610e4794f7c1ecdb0be91bcf3ba54",
+        "value": "325b644dd79eaf04e2ef8021fa54764a790abd65501ebbb0f8b89d77eb8afe7c"
+      },
+      "recoveryHash": "cb2e7e4bc871d857491b0d1bb11b2e83d34b8e526c568e75b3667ea98e8f999f",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:38:46.735Z"
+    },
+    {
+      "id": "u_9bb24464-8c33-46c1-a818-233082eaf3f3",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher12",
+      "email": "teacher12@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "a49008d68e30b1708e462dc790cce111",
+        "value": "3345999dbc609b0736965c6db623a884900234dc427e869db440416bf30e637f"
+      },
+      "recoveryHash": "907fb9c84d22a0064ab2a92d6b8e875263faed84ace2c4e54ef6e0d349eba46b",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:39:15.451Z"
+    },
+    {
+      "id": "u_06b6ac6f-01fe-41b5-93d1-22cf457d2516",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher13",
+      "email": "teacher13@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "22141c3e92493f001342cc80ca6bdbde",
+        "value": "83821c982bc18c83e860726f54203cfc4940d11f1818110df05f8930fe645f73"
+      },
+      "recoveryHash": "6b8b388d9530a78f754ad0e4c1ced52af8a9ff162574542f70190aa900a2e6da",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:40:06.993Z"
+    },
+    {
+      "id": "u_657aee55-bbe7-454a-be70-c7b70ec35a99",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher14",
+      "email": "teacher14@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "31ce56389596310a7e8b2237225b631c",
+        "value": "06051cba3f745239a604795b8ad39465590deb99a08b5952d1665d2179aa8b18"
+      },
+      "recoveryHash": "47737b4829c93e2e2c2d0d0f2835b029fd53015ac6f82a8f420060e9767d1093",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:41:23.493Z"
+    },
+    {
+      "id": "u_8cdbb87f-3808-475a-9ab8-d59bd43e9cdc",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher15",
+      "email": "teacher15@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "36e813515a25285c323662ff487fc2cc",
+        "value": "3f104b2519c140920b4f1e2545ee45506c16461231926f0cde841fa995689545"
+      },
+      "recoveryHash": "56783270d87890f9177bf1b81e20711f011c6ba23ab98daca4c94bd72db41ef4",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:41:51.458Z"
+    },
+    {
+      "id": "u_8403422b-f921-4fbd-a451-aa3d7962f579",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher16",
+      "email": "teacher16@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "594a632022097198fdc7d2aa7a6689da",
+        "value": "a29c6bb7c2b1220386ce5def6fdbe833979aec3c62c2122346e8a6ef25b3502c"
+      },
+      "recoveryHash": "6b8564d18a3d6f438e79900afbd9cd2ed3c26135950048918299f449245aaa74",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:42:15.654Z"
+    },
+    {
+      "id": "u_23910bcd-dd7c-42ea-bd12-9bcd177294a7",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher17",
+      "email": "teacher17@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "94c061c36c99a035c888b91e116329bc",
+        "value": "071faddeffade1c5c74d6ec03d9ebcf1e0409b2b353a4021a8ab2076a09e852a"
+      },
+      "recoveryHash": "9f5c49e9da7651679e3fc2d8f84017ae92953ab5bbeafb3685f72b5b97f51413",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:42:43.120Z"
+    },
+    {
+      "id": "u_6a56156b-b385-42c7-82ea-5f89bbc8711f",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher18",
+      "email": "teacher18@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "c29375f204b156fe0b6aac6fbcb03714",
+        "value": "8abefbba11c6cbecf596833e806affe30c4725da964c4e29ca5c687e9a051d74"
+      },
+      "recoveryHash": "a73aaf6f9f4ccff98247c604b3ea939c6fc28b91648e5cafd7df6e408c45e108",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:44:27.972Z"
+    },
+    {
+      "id": "u_6ca79214-8291-44b6-8337-130ab7af7cf6",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Admin",
+      "email": "teacher19@gmail.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "cbc548e38bbf0e6718485d0a0c9ae5c9",
+        "value": "991a87b170ed70c97bc1746d08b2e049433f0f03f5d76d5b7e572dfa290e49e5"
+      },
+      "recoveryHash": "2546abb0325704747451754b9aa15960600050273cfa9646c99201856344cd8e",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:44:46.220Z"
+    },
+    {
+      "id": "u_11e796bb-ca5b-4223-b2ec-ed2672b7ef5a",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher20",
+      "email": "teacher20@gmail.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "a43ad5dc0c27f657f9f39c7c183eceba",
+        "value": "fd3ce4ed00500679a771dcac91c3790c91b58453f3e7b6b63d69976ddc479076"
+      },
+      "recoveryHash": "5fe7c82c4994c639bcaa4e9cb83d4d461eea285a2c48479c63841d7c4304f444",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:45:07.176Z"
+    },
+    {
+      "id": "u_147b40e0-51e6-42c8-8ddb-5da192dd9b77",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher21",
+      "email": "teacher21@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "9bf603ce82a944e01b31857850cbea99",
+        "value": "2cbd6a9f05ef70060a5a850d67deeb1df8149b88c9cd720699a7826d52351fed"
+      },
+      "recoveryHash": "8959da0770ddc436cb8705abf0961a097bf693450238de81804738e9a2b8795d",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:45:27.236Z"
+    },
+    {
+      "id": "u_d70d94a6-8e7d-4379-9fd4-0791ce6ef957",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher19",
+      "email": "teacher19@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "6d773d703eeef600dbd24badd9b4c7d3",
+        "value": "4f92abe262395ded06cac8f5a81815decd4326b799def7769beafc64bdea5343"
+      },
+      "recoveryHash": "78e3fdf254359858d3ff27e83a826b0b7c1996824478ee867f6a68a5d8e54c76",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:48:08.912Z"
+    },
+    {
+      "id": "u_54707d49-b228-4704-9ab4-979592e84e8d",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher22",
+      "email": "teacher22@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "cda42ef1d57e712128909d894e998f0e",
+        "value": "901a0726b32dbfbb1d152a4c4de128012a1bf46e23bfa6c2fa04f05607dd8f98"
+      },
+      "recoveryHash": "7e0bdf92417998ab1603c8061f948975da2977e8bc74a327dce4aa06b98c3dd1",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:48:49.940Z"
+    },
+    {
+      "id": "u_45335ccd-886d-4918-a2e8-538b49f670e6",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher23",
+      "email": "teacher23@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "7fc51bafe82ef6d824b56c2d51cf2819",
+        "value": "5e769eb662d3e0effa00b0d09996da4b625cd6d732d93d641f02a13184c8ea0c"
+      },
+      "recoveryHash": "af0d81aa4e423e52d29f1f2e8f77ec5c9ae6e85bfcd4a3f9473e713a3e610527",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:49:08.444Z"
+    },
+    {
+      "id": "u_6bd9c4d8-3eff-42e6-8c55-d14c60c0849e",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher24",
+      "email": "teacher24@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "60eb00b6048c8b0e8b79822b1271960f",
+        "value": "b0da8663e57a40d10fcc8c0461effabcdf595c40ba20ba386c7fb02ea35c5726"
+      },
+      "recoveryHash": "d14d16c6cc86966d3eb6afea75e590840651fb8e9a21a5294d750bc40e329f2d",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:49:28.075Z"
+    },
+    {
+      "id": "u_edc65e91-1e61-42cf-9bbc-302eb942d4cf",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher25",
+      "email": "teacher25@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "5c9e829c937abd08f70fde0960e25587",
+        "value": "2ec46bbe02db997c6b2b8958416efe6f4301a53ad4d8966c57952bdd8d03ffbe"
+      },
+      "recoveryHash": "58ba0243725c746de03322d568c34a2e5d07af3e82d72191cae5241e6a5d68b1",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:50:03.403Z"
+    },
+    {
+      "id": "u_3720d658-e6c9-4311-ad88-428f11277fb2",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher26",
+      "email": "teacher26@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "feca3b51ede8c13bc8bd298db6283d0c",
+        "value": "668d4418264af7b08a32db7066dd32690b8276fadb975867a3e0778dc8b1f0a6"
+      },
+      "recoveryHash": "8f39785634b7b4d01ebd72a0b7fe21d039047e26b3871026a2e768499494f149",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:50:27.241Z"
+    },
+    {
+      "id": "u_281872d4-0e14-43bf-9501-94df702a145f",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher27",
+      "email": "teacher27@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "7ca432db29e354481dae83ed2c74cd76",
+        "value": "6fc0dd33233c20f04f6f332dbfd1287af2f76463c9d493ee2bc37e214fac8eda"
+      },
+      "recoveryHash": "9ac03b9b297b0f50eb166a6c0b35d3d918203791347a0635dc7bca9eb3c994ef",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:50:45.883Z"
+    },
+    {
+      "id": "u_465dfbd6-c0f9-4880-ba2e-60af4fd087c4",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher28",
+      "email": "teacher28@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "d5de46166804844829f1492159444055",
+        "value": "9f277ff457cadb40e6cf7839db518c9e390d83a99dbe15fe8cd161d98ae9ea68"
+      },
+      "recoveryHash": "a12c3ca136a9b212e7d75287025fd10fb4f92b0983695503ba882258569a79be",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:51:10.625Z"
+    },
+    {
+      "id": "u_c4d814b5-59c2-41a0-89fc-7e948b2d5917",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher29",
+      "email": "teacher29@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "048336a97434ffb411557d74417023ae",
+        "value": "5bb99295c35fbb1dc616058c7770c38c46b8993d7e9b91d6fe35ff4c98807fd8"
+      },
+      "recoveryHash": "909913983e2d0bb9a50cffd951f121bb86d08a0d56e919ce508726476f0b9837",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:51:28.257Z"
+    },
+    {
+      "id": "u_53af245c-53ae-4544-ae13-b773d1137822",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher30",
+      "email": "teacher30@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "65df84ee49348135c98feb8167b7de71",
+        "value": "c747c5c90cfc04968f70cfeebb9bc632c7a460b6be217fd6b4e00bf1d7617c45"
+      },
+      "recoveryHash": "b9535c46c4a79c3aebd77b86935f12f77c0ff05acb805d952a947f31595d8dac",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:51:53.226Z"
+    },
+    {
+      "id": "u_82f39b04-7b96-4777-bc28-f967bf00de7a",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher31",
+      "email": "teacher31@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "6c8e7b11c78333e49a604afa039d001b",
+        "value": "5d8a39961e422be2b129d599b6782bbd00e7cb0b1f68e2c3a0080ba3a8198adb"
+      },
+      "recoveryHash": "6b5c8817586939c7b3817dfc796c7e35972b12156a30f13a78e6f2f8ef2ef547",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:52:15.720Z"
+    },
+    {
+      "id": "u_220ee716-6bca-4956-baa9-3d8e9c472785",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher32",
+      "email": "teacher32@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "65ef85dcb46b642e19c79c1acdcebf25",
+        "value": "949ebd65706392f8b095147cad564a18dfbcce0dc9a0f2af3c43c5879d64d7d3"
+      },
+      "recoveryHash": "ce08f3a0206fd19b8ee8b86ae416ae9b54eedb1f1130daeb86e593e394b53065",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:53:59.841Z"
+    },
+    {
+      "id": "u_828d15a1-2e16-4671-bace-53203c61dab9",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher33",
+      "email": "teacher33@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "bd7fdb3c5b260d64048ed78789b79995",
+        "value": "9a92779757623d7c6a8bc979b466139fce59e21f468f05c1fad53cb74b69eede"
+      },
+      "recoveryHash": "bd8566805e9b4098056de517804c15f044d417ea0d6d01d8fd4f70ea819b8a89",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:54:19.591Z"
+    },
+    {
+      "id": "u_d96c3254-28ff-4291-8b5b-3a268ff7d32f",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher34",
+      "email": "teacher34@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "d065c980a7db3d1f82be8c2cdd9c1177",
+        "value": "a245f243646c192d074c43600ba09f9122c812c6a0ad756d35054b69c66c4e37"
+      },
+      "recoveryHash": "6e5d7eb9d572ede4a760338f57eea542f89fbef07c18503ed58d2c5480010fc9",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:54:40.341Z"
+    },
+    {
+      "id": "u_667832ba-34b9-4d70-a617-0751f0b3c454",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher35",
+      "email": "teacher35@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "bb67008e4fa5a13957dfd8994fc6f513",
+        "value": "e29ea126f95f93e86582c85181702cdbb077c0cfad97872a7fef5a2bb72cefbf"
+      },
+      "recoveryHash": "c25f60fbb4a13b2336529f7aff4494ed54a393530a0d0bfd90a89dbdba00dff6",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:55:00.662Z"
+    },
+    {
+      "id": "u_25a8d581-5f8d-40e7-a44f-8c902462cf86",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher36",
+      "email": "teacher36@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "6e3cab662077dd90e609b7f0e85ba1fa",
+        "value": "2310c7d449e3d97c0cbcfe78a8c8020a3092a6df1e1aabf070aae91681fb4b09"
+      },
+      "recoveryHash": "e462474d726f84a147e06b3bb9cb678c69d52ce0bd31dfb5124c9a04f01d52a2",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:55:37.430Z"
+    },
+    {
+      "id": "u_25894572-8449-46dc-ac70-5d9313a8b39a",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher37",
+      "email": "teacher37@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "c90bc3ee5239ab2dd34ae84f4ba4c2c5",
+        "value": "1b1ede4ab6d613485f9bc62ade9be7182106a328263c8ac852e184be06648518"
+      },
+      "recoveryHash": "ae5c877cc40d15e771a67f29e75630647d413813207d0cf79352ad02f7656c29",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:56:11.688Z"
+    },
+    {
+      "id": "u_c779d637-78dc-4b2f-834c-3ac798e0ed86",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher38",
+      "email": "teacher38@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "83af4939b0b443f0b93cfc69741f7174",
+        "value": "3f982c08247087c68909f977d0a53b39da7f8881c57aeb3ce9e508505e2c6e5d"
+      },
+      "recoveryHash": "61e0c202a6c989adf6417b3e6d8827ee7be09aff8cce8788b8a1579589844294",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:56:37.211Z"
+    },
+    {
+      "id": "u_b6657bdb-9338-4721-9667-e7184ecc71ab",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher39",
+      "email": "teacher39@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "d9119871e90a08f1c17c1b3bcf725f7c",
+        "value": "590122531c22ccbdfb24e8cd13d180d3518458509d3e80031e0269a252102c0e"
+      },
+      "recoveryHash": "7fa0f4323fbd5de64c71b9a2d12e33beffbbd2daf8b7f142b20574ade082a046",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:56:58.878Z"
+    },
+    {
+      "id": "u_8f1300a0-95f1-47b4-8127-1ee5bcbd0f0b",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "name": "Teacher40",
+      "email": "teacher40@highschool.com",
+      "role": "teacher",
+      "passwordHash": {
+        "salt": "62649f6dfd902b6f3231dc945ef39452",
+        "value": "f10c2c057521459e08a14b07c658a9fa3d6d1894a79c1486eb44591b53908674"
+      },
+      "recoveryHash": "c93ae36500317d59036d6cca80a9b505438d286e6ec348917cb0ef2c25a24a14",
+      "preferences": {
+        "subjects": [],
+        "grades": [],
+        "unavailableDates": []
+      },
+      "createdAt": "2026-09-21T00:57:24.947Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "rWgJXLWfmwsMNBoAJZEBC_nFTd4BBr57vUKg5cLvrYI",
+      "userId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "expiresAt": "2026-09-24T04:43:40.510Z"
+    },
+    {
+      "token": "Ykcpf8fHoFstV4TETRMb3wBO4jHPZQ9zkXso2IYFD44",
+      "userId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "expiresAt": "2026-09-24T04:44:45.019Z"
+    },
+    {
+      "token": "ajVO87Vmx-qXEOsXNQme73FaRGijSz1ta_dd51Fsx9c",
+      "userId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+      "expiresAt": "2026-10-05T00:33:26.019Z"
+    },
+    {
+      "token": "_AJ1ipFZdBti78ZVYfmbyhf5BrJYZPQa7qcK0LPmXrU",
+      "userId": "u_90a1f874-7e5f-4152-83fc-087af63dcdc6",
+      "expiresAt": "2026-10-05T00:34:33.572Z"
+    },
+    {
+      "token": "Wyyhyi0d5FRz5LEII6U0wJhK9BtVpxLMwPzR-LBrP8E",
+      "userId": "u_6a816d86-d3c2-4158-8f99-b24b396032db",
+      "expiresAt": "2026-10-05T00:35:07.838Z"
+    },
+    {
+      "token": "u1P5PSZpD7leCsmg4REw7SoUpoGwNwQC_ZwZHnh3aK0",
+      "userId": "u_a5c5cbd5-8bbe-4283-b9f9-bfd08c6ac402",
+      "expiresAt": "2026-10-05T00:35:44.344Z"
+    },
+    {
+      "token": "a9987PO9TBBncVKryRPkl4UM4ygyu0GIgkJs-vSQLf0",
+      "userId": "u_32e30a15-1a2c-4e5e-a503-21a1f878b33b",
+      "expiresAt": "2026-10-05T00:36:18.568Z"
+    },
+    {
+      "token": "Lnw9ODzypAHvIas7PQJHwU39m9HnSkCWvPIUi2HQ2DE",
+      "userId": "u_a583e0f9-6a36-42c1-9ab7-e53a56de17f7",
+      "expiresAt": "2026-10-05T00:36:45.702Z"
+    },
+    {
+      "token": "oKKAMxfH48zwTySryQ-gjgYYEfpHeonTtZT6pmLqE1I",
+      "userId": "u_269a948d-6271-4058-9c9c-46a841fc7639",
+      "expiresAt": "2026-10-05T00:37:40.605Z"
+    },
+    {
+      "token": "WK7TVF02hz-l_YPTnRdLMjgOyY1kQ5MsAO8Cimfg5oQ",
+      "userId": "u_6d2bd423-c1eb-4af6-bb38-66921c3e0e5f",
+      "expiresAt": "2026-10-05T00:38:13.125Z"
+    },
+    {
+      "token": "dPCISjIa_wGPcGPFu9ux54pOgP-XwM4OOcJXP6t_Xk8",
+      "userId": "u_1d916729-c2f5-40ab-b0e5-2138e0fd43b3",
+      "expiresAt": "2026-10-05T00:38:46.735Z"
+    },
+    {
+      "token": "XpN71H7m3ljzbOhLMsPMMvUDeDj1NPqF1v1jxiNTC8k",
+      "userId": "u_9bb24464-8c33-46c1-a818-233082eaf3f3",
+      "expiresAt": "2026-10-05T00:39:15.451Z"
+    },
+    {
+      "token": "HOQ7UxrjaT6N2Nib7Y6IQikGWa4uaoYSjbkUHNyCFGU",
+      "userId": "u_06b6ac6f-01fe-41b5-93d1-22cf457d2516",
+      "expiresAt": "2026-10-05T00:40:06.993Z"
+    },
+    {
+      "token": "8bUJhASj5pr_ZJpNp_rbYjLAYGoifRO63Ft4oqOiHao",
+      "userId": "u_657aee55-bbe7-454a-be70-c7b70ec35a99",
+      "expiresAt": "2026-10-05T00:41:23.493Z"
+    },
+    {
+      "token": "j6Wn19uF-7nV591_nptddpKPddBKgyDyoxm2kS0MulE",
+      "userId": "u_8cdbb87f-3808-475a-9ab8-d59bd43e9cdc",
+      "expiresAt": "2026-10-05T00:41:51.458Z"
+    },
+    {
+      "token": "lZGRqrQVvdQj6azR8579MzVThc3Hi7Y6kSzwksYiJuo",
+      "userId": "u_8403422b-f921-4fbd-a451-aa3d7962f579",
+      "expiresAt": "2026-10-05T00:42:15.654Z"
+    },
+    {
+      "token": "ULiL17_V8-dkixiUEbiWtVBPPpZSWDptlvwPYrqvHgY",
+      "userId": "u_23910bcd-dd7c-42ea-bd12-9bcd177294a7",
+      "expiresAt": "2026-10-05T00:42:43.120Z"
+    },
+    {
+      "token": "93a7pGCILFOIU2qFMP8yH5EsAozKxsZvHtp8VfZBd4s",
+      "userId": "u_6a56156b-b385-42c7-82ea-5f89bbc8711f",
+      "expiresAt": "2026-10-05T00:44:27.972Z"
+    },
+    {
+      "token": "WtHm6I_rOCvlVg1Rz5sVyopglOEkuyC7tUH0R8HQLl0",
+      "userId": "u_11e796bb-ca5b-4223-b2ec-ed2672b7ef5a",
+      "expiresAt": "2026-10-05T00:45:07.176Z"
+    },
+    {
+      "token": "dQjhZb03hQu4xpTaMEaCMD_ZQPcdgrAQM7a14m7v4io",
+      "userId": "u_147b40e0-51e6-42c8-8ddb-5da192dd9b77",
+      "expiresAt": "2026-10-05T00:45:27.236Z"
+    },
+    {
+      "token": "rT5ppubf5CUYrGS1_HeuehrdTjE0xVQhUy2Xu9jTvGo",
+      "userId": "u_6ca79214-8291-44b6-8337-130ab7af7cf6",
+      "expiresAt": "2026-10-05T00:46:16.491Z"
+    },
+    {
+      "token": "Xht7Oo7wGYRYfODtBq1RV-V1wx0OoiHI1R_YLHveOuU",
+      "userId": "u_d70d94a6-8e7d-4379-9fd4-0791ce6ef957",
+      "expiresAt": "2026-10-05T00:48:08.912Z"
+    },
+    {
+      "token": "Wx9FK7AIhG4XxoUXQh74PGqaOUlWcjbX924wZz8MT0U",
+      "userId": "u_54707d49-b228-4704-9ab4-979592e84e8d",
+      "expiresAt": "2026-10-05T00:48:49.940Z"
+    },
+    {
+      "token": "x1Ux1oAxkPmgH65BTNyctOvYcOSHqP3iGEXGCMQU5Mo",
+      "userId": "u_45335ccd-886d-4918-a2e8-538b49f670e6",
+      "expiresAt": "2026-10-05T00:49:08.444Z"
+    },
+    {
+      "token": "gZC0ZO1T4DAWuNttoDXlptEfR1jdH2Ij41c3f4hngAQ",
+      "userId": "u_6bd9c4d8-3eff-42e6-8c55-d14c60c0849e",
+      "expiresAt": "2026-10-05T00:49:28.075Z"
+    },
+    {
+      "token": "gXwtyEYYnrCBf4r8eHPKH5cigB8I1MTi10JjHl0F454",
+      "userId": "u_edc65e91-1e61-42cf-9bbc-302eb942d4cf",
+      "expiresAt": "2026-10-05T00:50:03.403Z"
+    },
+    {
+      "token": "vMQxJfUFs_M_UDOJ-mv5EmvQPVQ7pxEc7wGWXxos-GI",
+      "userId": "u_3720d658-e6c9-4311-ad88-428f11277fb2",
+      "expiresAt": "2026-10-05T00:50:27.241Z"
+    },
+    {
+      "token": "7_KbjPekHLN-IdiOKIRgGMJnW5WWUUOOh4uap9gusUs",
+      "userId": "u_281872d4-0e14-43bf-9501-94df702a145f",
+      "expiresAt": "2026-10-05T00:50:45.883Z"
+    },
+    {
+      "token": "vOtDjMe6iXYhnf7ly1KEKCgJgAzCCPJIWANsu5_Juwc",
+      "userId": "u_465dfbd6-c0f9-4880-ba2e-60af4fd087c4",
+      "expiresAt": "2026-10-05T00:51:10.626Z"
+    },
+    {
+      "token": "X62bGawFEDxJTuS6jjZi8jXuwCvZz-Rw_zKu5X5Zedk",
+      "userId": "u_c4d814b5-59c2-41a0-89fc-7e948b2d5917",
+      "expiresAt": "2026-10-05T00:51:28.257Z"
+    },
+    {
+      "token": "oHZx8yWtKTbF_kFy4JmOHYf05HESCuaYi24AU3duXKs",
+      "userId": "u_53af245c-53ae-4544-ae13-b773d1137822",
+      "expiresAt": "2026-10-05T00:51:53.226Z"
+    },
+    {
+      "token": "siLRxEA-cDc_jvqwTnSuAqKjq-R4u8uI57n1Y6Umqi8",
+      "userId": "u_82f39b04-7b96-4777-bc28-f967bf00de7a",
+      "expiresAt": "2026-10-05T00:52:15.720Z"
+    },
+    {
+      "token": "__CbyjqVTcsOf0TWalpHOnem2no2SwqrR6tKg4lW2oM",
+      "userId": "u_220ee716-6bca-4956-baa9-3d8e9c472785",
+      "expiresAt": "2026-10-05T00:53:59.841Z"
+    },
+    {
+      "token": "QIx8yeKgJdCWFF_k1_aALfWM4MZFFPBQxZGUT-rwZbU",
+      "userId": "u_828d15a1-2e16-4671-bace-53203c61dab9",
+      "expiresAt": "2026-10-05T00:54:19.591Z"
+    },
+    {
+      "token": "vBfRYEGpTyYpmb5TCYwG1IdAVo3GeVQk__pGqh-Rq7c",
+      "userId": "u_d96c3254-28ff-4291-8b5b-3a268ff7d32f",
+      "expiresAt": "2026-10-05T00:54:40.341Z"
+    },
+    {
+      "token": "LiuBD4mLlGm1rQ_XaGde9pJdo6YYvDNy6nN5pAoiNrg",
+      "userId": "u_667832ba-34b9-4d70-a617-0751f0b3c454",
+      "expiresAt": "2026-10-05T00:55:00.662Z"
+    },
+    {
+      "token": "HBkJNNYz1rffLNh6MK-I4BFdy6VQwQFALr_8NWMasYA",
+      "userId": "u_25a8d581-5f8d-40e7-a44f-8c902462cf86",
+      "expiresAt": "2026-10-05T00:55:37.430Z"
+    },
+    {
+      "token": "9Vqz5UVHreUWLdaXfMRS2MS5lXgDoFYzfcC56SV6UKM",
+      "userId": "u_25894572-8449-46dc-ac70-5d9313a8b39a",
+      "expiresAt": "2026-10-05T00:56:11.688Z"
+    },
+    {
+      "token": "qg-UUxK76kTVI1-853tTAHuCfdEvLLbcg0pSZR23RhM",
+      "userId": "u_c779d637-78dc-4b2f-834c-3ac798e0ed86",
+      "expiresAt": "2026-10-05T00:56:37.212Z"
+    },
+    {
+      "token": "ebz-aC_Cb3gXclbZOXo0NU6zdZZkX1kvcMospAF41uI",
+      "userId": "u_b6657bdb-9338-4721-9667-e7184ecc71ab",
+      "expiresAt": "2026-10-05T00:56:58.878Z"
+    },
+    {
+      "token": "n6JyKsUGy0HgLmuGbIGmsPRDtxkSmflPJgYr55A9ha8",
+      "userId": "u_8f1300a0-95f1-47b4-8127-1ee5bcbd0f0b",
+      "expiresAt": "2026-10-05T00:57:24.947Z"
+    }
+  ],
+  "timetable": [
+    {
+      "id": "tt_89efab3a-da62-4edf-bf35-caf0d8a85027",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "1",
+      "start": "08:00",
+      "end": "08:45",
+      "className": "10A",
+      "subject": "Mathematics",
+      "room": "101",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_89c565ec-3040-4483-8609-dfb2583e0e3c",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "1",
+      "start": "08:50",
+      "end": "09:35",
+      "className": "10A",
+      "subject": "Physics",
+      "room": "102",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_dfbcae47-0dd2-42dc-a0fa-6bd10be4dde1",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "1",
+      "start": "09:40",
+      "end": "10:25",
+      "className": "10A",
+      "subject": "English",
+      "room": "103",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_768fc5b6-fc1d-4ce2-b946-83855f0292b4",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "1",
+      "start": "10:45",
+      "end": "11:30",
+      "className": "10A",
+      "subject": "Chemistry",
+      "room": "104",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_a038374b-8598-4600-9018-f693100450b0",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "1",
+      "start": "11:35",
+      "end": "12:20",
+      "className": "10A",
+      "subject": "History",
+      "room": "105",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_540190a0-2cc1-4ff7-a14c-86ed77300a87",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "1",
+      "start": "12:25",
+      "end": "13:10",
+      "className": "10A",
+      "subject": "Computer Science",
+      "room": "106",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_121c5227-473b-400e-9455-1546027cdfdd",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "2",
+      "start": "08:00",
+      "end": "08:45",
+      "className": "10A",
+      "subject": "Physics",
+      "room": "102",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_a447195b-75e1-4924-b9e0-9c6e98083ce7",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "2",
+      "start": "08:50",
+      "end": "09:35",
+      "className": "10A",
+      "subject": "Mathematics",
+      "room": "101",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_7df6fab9-10cb-4cfc-acef-c34e12fc9fd4",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "2",
+      "start": "09:40",
+      "end": "10:25",
+      "className": "10A",
+      "subject": "Chemistry",
+      "room": "104",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_7c600f3e-b3cd-49e5-a611-47bd9659a340",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "2",
+      "start": "10:45",
+      "end": "11:30",
+      "className": "10A",
+      "subject": "English",
+      "room": "103",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_ad12ca6e-d4f0-4325-868a-02e757b3ffa6",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "2",
+      "start": "11:35",
+      "end": "12:20",
+      "className": "10A",
+      "subject": "Computer Science",
+      "room": "106",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_cf0bfd51-4033-443f-a149-5360ee7c8dfa",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "2",
+      "start": "12:25",
+      "end": "13:10",
+      "className": "10A",
+      "subject": "History",
+      "room": "105",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_09909ccf-cdbd-4788-86b8-32454edae582",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "3",
+      "start": "08:00",
+      "end": "08:45",
+      "className": "10A",
+      "subject": "English",
+      "room": "103",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_d666a8f6-1179-4769-8d49-0034277558f5",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "3",
+      "start": "08:50",
+      "end": "09:35",
+      "className": "10A",
+      "subject": "Mathematics",
+      "room": "101",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_6627b70e-6155-4a17-8459-920640682450",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "3",
+      "start": "09:40",
+      "end": "10:25",
+      "className": "10A",
+      "subject": "History",
+      "room": "105",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_3e6d08e2-8b0b-4a76-ac6f-5ff00c91ccea",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "3",
+      "start": "10:45",
+      "end": "11:30",
+      "className": "10A",
+      "subject": "Physics",
+      "room": "102",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_77b43b9b-3464-4a6f-8a2f-d90d13a8301a",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "3",
+      "start": "11:35",
+      "end": "12:20",
+      "className": "10A",
+      "subject": "Chemistry",
+      "room": "104",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_71f5e689-d270-4801-bf0c-8e9c29b4adec",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "3",
+      "start": "12:25",
+      "end": "13:10",
+      "className": "10A",
+      "subject": "Computer Science",
+      "room": "106",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_9f55ce48-ec40-4d6c-841e-35a24701d756",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "4",
+      "start": "08:00",
+      "end": "08:45",
+      "className": "10A",
+      "subject": "Chemistry",
+      "room": "104",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_5093c615-c330-4ed4-9f51-23ea9eedaeec",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "4",
+      "start": "08:50",
+      "end": "09:35",
+      "className": "10A",
+      "subject": "English",
+      "room": "103",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_66fe2d09-62bb-4d4c-9871-9902dbf10557",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "4",
+      "start": "09:40",
+      "end": "10:25",
+      "className": "10A",
+      "subject": "Mathematics",
+      "room": "101",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_2ffdaa96-5f70-4791-9037-a5ccf922c58a",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "4",
+      "start": "10:45",
+      "end": "11:30",
+      "className": "10A",
+      "subject": "Computer Science",
+      "room": "106",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_a85193e3-9add-4c7b-b7cc-3a8d62265b9c",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "4",
+      "start": "11:35",
+      "end": "12:20",
+      "className": "10A",
+      "subject": "Physics",
+      "room": "102",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_dfd59e22-43ed-41c9-b019-edee8f5fd4dd",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "4",
+      "start": "12:25",
+      "end": "13:10",
+      "className": "10A",
+      "subject": "History",
+      "room": "105",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_a545b3be-c54f-482e-9b48-e6a52561ae03",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "5",
+      "start": "08:00",
+      "end": "08:45",
+      "className": "10A",
+      "subject": "Mathematics",
+      "room": "101",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_2c7cc048-48fb-4003-ac30-0c39049f8f80",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "5",
+      "start": "08:50",
+      "end": "09:35",
+      "className": "10A",
+      "subject": "Physics",
+      "room": "102",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_2ceb9794-2654-4f16-94ad-8865176e2b03",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "5",
+      "start": "09:40",
+      "end": "10:25",
+      "className": "10A",
+      "subject": "English",
+      "room": "103",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_6c3e3a33-0dc0-413f-bc9b-1db8785d31fb",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "5",
+      "start": "10:45",
+      "end": "11:30",
+      "className": "10A",
+      "subject": "History",
+      "room": "105",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    },
+    {
+      "id": "tt_6741a841-8e0a-4ba7-aacd-abcc5162edec",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "5",
+      "start": "11:35",
+      "end": "12:20",
+      "className": "10A",
+      "subject": "Chemistry",
+      "room": "104",
+      "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "studentIds": []
+    },
+    {
+      "id": "tt_0d84832d-d5db-48ef-bc57-03abe0793d5f",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "day": "5",
+      "start": "12:25",
+      "end": "13:10",
+      "className": "10A",
+      "subject": "Computer Science",
+      "room": "106",
+      "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+      "studentIds": []
+    }
+  ],
+  "requests": [
+    {
+      "id": "lr_15e13083-434f-41ed-9c9c-96de8361d3c3",
+      "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+      "requesterId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "requesterRole": "teacher",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-11",
+      "reason": "",
+      "supportingInfo": "",
+      "affectedEntries": [
+        {
+          "id": "tt_5093c615-c330-4ed4-9f51-23ea9eedaeec",
+          "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+          "day": "4",
+          "start": "08:50",
+          "end": "09:35",
+          "className": "10A",
+          "subject": "English",
+          "room": "103",
+          "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+          "studentIds": []
+        },
+        {
+          "id": "tt_2ffdaa96-5f70-4791-9037-a5ccf922c58a",
+          "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+          "day": "4",
+          "start": "10:45",
+          "end": "11:30",
+          "className": "10A",
+          "subject": "Computer Science",
+          "room": "106",
+          "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+          "studentIds": []
+        },
+        {
+          "id": "tt_dfd59e22-43ed-41c9-b019-edee8f5fd4dd",
+          "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+          "day": "4",
+          "start": "12:25",
+          "end": "13:10",
+          "className": "10A",
+          "subject": "History",
+          "room": "105",
+          "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+          "studentIds": []
+        },
+        {
+          "id": "tt_a545b3be-c54f-482e-9b48-e6a52561ae03",
+          "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+          "day": "5",
+          "start": "08:00",
+          "end": "08:45",
+          "className": "10A",
+          "subject": "Mathematics",
+          "room": "101",
+          "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+          "studentIds": []
+        },
+        {
+          "id": "tt_2ceb9794-2654-4f16-94ad-8865176e2b03",
+          "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+          "day": "5",
+          "start": "09:40",
+          "end": "10:25",
+          "className": "10A",
+          "subject": "English",
+          "room": "103",
+          "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+          "studentIds": []
+        },
+        {
+          "id": "tt_6741a841-8e0a-4ba7-aacd-abcc5162edec",
+          "schoolId": "s_5cdeb1f2-aa72-43dd-85b9-d3a3200b0d2d",
+          "day": "5",
+          "start": "11:35",
+          "end": "12:20",
+          "className": "10A",
+          "subject": "Chemistry",
+          "room": "104",
+          "teacherId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+          "studentIds": []
+        }
+      ],
+      "status": "rejected",
+      "assignments": [],
+      "createdAt": "2026-09-10T05:24:47.221Z",
+      "updatedAt": "2026-09-10T08:40:52.366Z",
+      "recommendations": [
+        {
+          "entryId": "tt_5093c615-c330-4ed4-9f51-23ea9eedaeec",
+          "className": "10A",
+          "subject": "English",
+          "day": "4",
+          "start": "08:50",
+          "end": "09:35",
+          "room": "103",
+          "candidates": [
+            {
+              "teacherId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+              "name": "Aadi Gorasia",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            },
+            {
+              "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+              "name": "Teacher 2",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            }
+          ],
+          "warnings": []
+        },
+        {
+          "entryId": "tt_2ffdaa96-5f70-4791-9037-a5ccf922c58a",
+          "className": "10A",
+          "subject": "Computer Science",
+          "day": "4",
+          "start": "10:45",
+          "end": "11:30",
+          "room": "106",
+          "candidates": [
+            {
+              "teacherId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+              "name": "Aadi Gorasia",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            },
+            {
+              "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+              "name": "Teacher 2",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            }
+          ],
+          "warnings": []
+        },
+        {
+          "entryId": "tt_dfd59e22-43ed-41c9-b019-edee8f5fd4dd",
+          "className": "10A",
+          "subject": "History",
+          "day": "4",
+          "start": "12:25",
+          "end": "13:10",
+          "room": "105",
+          "candidates": [
+            {
+              "teacherId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+              "name": "Aadi Gorasia",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            },
+            {
+              "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+              "name": "Teacher 2",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            }
+          ],
+          "warnings": []
+        },
+        {
+          "entryId": "tt_a545b3be-c54f-482e-9b48-e6a52561ae03",
+          "className": "10A",
+          "subject": "Mathematics",
+          "day": "5",
+          "start": "08:00",
+          "end": "08:45",
+          "room": "101",
+          "candidates": [
+            {
+              "teacherId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+              "name": "Aadi Gorasia",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            },
+            {
+              "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+              "name": "Teacher 2",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            }
+          ],
+          "warnings": []
+        },
+        {
+          "entryId": "tt_2ceb9794-2654-4f16-94ad-8865176e2b03",
+          "className": "10A",
+          "subject": "English",
+          "day": "5",
+          "start": "09:40",
+          "end": "10:25",
+          "room": "103",
+          "candidates": [
+            {
+              "teacherId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+              "name": "Aadi Gorasia",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            },
+            {
+              "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+              "name": "Teacher 2",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            }
+          ],
+          "warnings": []
+        },
+        {
+          "entryId": "tt_6741a841-8e0a-4ba7-aacd-abcc5162edec",
+          "className": "10A",
+          "subject": "Chemistry",
+          "day": "5",
+          "start": "11:35",
+          "end": "12:20",
+          "room": "104",
+          "candidates": [
+            {
+              "teacherId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+              "name": "Aadi Gorasia",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            },
+            {
+              "teacherId": "u_614267bc-084e-434c-bc9b-0bb3d29f9afc",
+              "name": "Teacher 2",
+              "score": 100,
+              "hardWarnings": [],
+              "reasons": [
+                "0 cover assignments on record this week",
+                "Cross-subject cover is permitted",
+                "No grade-preference match recorded",
+                "No prior cover history for this subject"
+              ]
+            }
+          ],
+          "warnings": []
+        }
+      ],
+      "resolutionNote": "",
+      "reviewerId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b"
+    }
+  ],
+  "messages": [],
+  "notifications": [
+    {
+      "id": "n_3ef8e79c-6c11-4d71-9af6-a64b6a2892cb",
+      "userId": "u_12cecff5-e562-4330-87ff-7bc0e69ab8cf",
+      "type": "request_rejected",
+      "body": "Aadi Gorasia rejected your leave request.",
+      "requestId": "lr_15e13083-434f-41ed-9c9c-96de8361d3c3",
+      "readAt": null,
+      "createdAt": "2026-09-10T05:25:47.482Z"
+    },
+    {
+      "id": "n_e680d8f4-a17d-4a2c-8db4-fc2bc95b2a3c",
+      "userId": "u_27ac8d89-e429-4bcf-98bb-86c41ffa410b",
+      "type": "request_submitted",
+      "body": "Teacher 1 submitted a leave request.",
+      "requestId": "lr_15e13083-434f-41ed-9c9c-96de8361d3c3",
+      "readAt": "2026-09-10T05:25:15.513Z",
+      "createdAt": "2026-09-10T05:24:47.225Z"
+    }
+  ],
+  "resources": []
+}
