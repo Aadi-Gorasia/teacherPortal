@@ -1,0 +1,361 @@
+day,start,end,class,subject,teacher_email,room
+1,08:30,09:20,9A,Science,teacher1@highschool.com,101
+1,09:20,09:50,9A,Mathematics,teacher2@highschool.com,102
+1,10:10,11:00,9A,Computer Science,teacher3@highschool.com,103
+1,11:00,11:50,9A,Hindi,teacher4@highschool.com,104
+1,11:50,12:50,9A,English,teacher5@highschool.com,105
+1,13:20,14:10,9A,SSC,teacher6@highschool.com,106
+1,14:10,14:50,9A,Science,teacher1@highschool.com,107
+1,08:30,09:20,9B,Mathematics,teacher2@highschool.com,103
+1,09:20,09:50,9B,Computer Science,teacher3@highschool.com,104
+1,10:10,11:00,9B,Hindi,teacher4@highschool.com,105
+1,11:00,11:50,9B,English,teacher5@highschool.com,106
+1,11:50,12:50,9B,SSC,teacher6@highschool.com,107
+1,13:20,14:10,9B,Science,teacher1@highschool.com,108
+1,14:10,14:50,9B,Mathematics,teacher2@highschool.com,109
+1,08:30,09:20,9C,Computer Science,teacher3@highschool.com,105
+1,09:20,09:50,9C,Hindi,teacher4@highschool.com,106
+1,10:10,11:00,9C,English,teacher5@highschool.com,107
+1,11:00,11:50,9C,SSC,teacher6@highschool.com,108
+1,11:50,12:50,9C,Science,teacher1@highschool.com,109
+1,13:20,14:10,9C,Mathematics,teacher2@highschool.com,110
+1,14:10,14:50,9C,Computer Science,teacher3@highschool.com,111
+1,08:30,09:20,10A,Hindi,teacher4@highschool.com,107
+1,09:20,09:50,10A,English,teacher5@highschool.com,108
+1,10:10,11:00,10A,SSC,teacher6@highschool.com,109
+1,11:00,11:50,10A,Science,teacher1@highschool.com,110
+1,11:50,12:50,10A,Mathematics,teacher2@highschool.com,111
+1,13:20,14:10,10A,Computer Science,teacher3@highschool.com,112
+1,14:10,14:50,10A,Hindi,teacher4@highschool.com,113
+1,08:30,09:20,10B,English,teacher5@highschool.com,109
+1,09:20,09:50,10B,SSC,teacher6@highschool.com,110
+1,10:10,11:00,10B,Science,teacher1@highschool.com,111
+1,11:00,11:50,10B,Mathematics,teacher2@highschool.com,112
+1,11:50,12:50,10B,Computer Science,teacher3@highschool.com,113
+1,13:20,14:10,10B,Hindi,teacher4@highschool.com,114
+1,14:10,14:50,10B,English,teacher5@highschool.com,115
+1,08:30,09:20,10C,SSC,teacher6@highschool.com,111
+1,09:20,09:50,10C,Science,teacher1@highschool.com,112
+1,10:10,11:00,10C,Mathematics,teacher2@highschool.com,113
+1,11:00,11:50,10C,Computer Science,teacher3@highschool.com,114
+1,11:50,12:50,10C,Hindi,teacher4@highschool.com,115
+1,13:20,14:10,10C,English,teacher5@highschool.com,116
+1,14:10,14:50,10C,SSC,teacher6@highschool.com,117
+1,08:30,09:20,11SCI,Chemistry,teacher7@highschool.com,113
+1,09:20,09:50,11SCI,Mathematics,teacher2@highschool.com,114
+1,10:10,11:00,11SCI,Biology,teacher8@highschool.com,115
+1,11:00,11:50,11SCI,Computer Science,teacher3@highschool.com,116
+1,11:50,12:45,11SCI,Physics,teacher9@highschool.com,117
+1,08:30,09:20,11COM,Economics,teacher10@highschool.com,115
+1,09:20,09:50,11COM,Mathematics,teacher2@highschool.com,116
+1,10:10,11:00,11COM,English,teacher5@highschool.com,117
+1,11:00,11:50,11COM,Accountancy,teacher11@highschool.com,118
+1,11:50,12:45,11COM,Business Studies,teacher12@highschool.com,119
+1,08:30,09:20,11HUM,Psychology,teacher13@highschool.com,117
+1,09:20,09:50,11HUM,English,teacher5@highschool.com,118
+1,10:10,11:00,11HUM,History,teacher14@highschool.com,119
+1,11:00,11:50,11HUM,Political Science,teacher15@highschool.com,120
+1,11:50,12:45,11HUM,Economics,teacher10@highschool.com,121
+1,08:30,09:20,12SCI,Computer Science,teacher3@highschool.com,119
+1,09:20,09:50,12SCI,Physics,teacher9@highschool.com,120
+1,10:10,11:00,12SCI,Chemistry,teacher7@highschool.com,121
+1,11:00,11:50,12SCI,Mathematics,teacher2@highschool.com,122
+1,11:50,12:45,12SCI,Biology,teacher8@highschool.com,123
+1,08:30,09:20,12COM,Accountancy,teacher11@highschool.com,121
+1,09:20,09:50,12COM,Business Studies,teacher12@highschool.com,122
+1,10:10,11:00,12COM,Economics,teacher10@highschool.com,123
+1,11:00,11:50,12COM,Mathematics,teacher2@highschool.com,124
+1,11:50,12:45,12COM,English,teacher5@highschool.com,125
+1,08:30,09:20,12HUM,Political Science,teacher15@highschool.com,123
+1,09:20,09:50,12HUM,Economics,teacher10@highschool.com,124
+1,10:10,11:00,12HUM,Psychology,teacher13@highschool.com,125
+1,11:00,11:50,12HUM,English,teacher5@highschool.com,126
+1,11:50,12:45,12HUM,History,teacher14@highschool.com,127
+2,08:30,09:20,9A,Mathematics,teacher2@highschool.com,101
+2,09:20,09:50,9A,Computer Science,teacher3@highschool.com,102
+2,10:10,11:00,9A,Hindi,teacher4@highschool.com,103
+2,11:00,11:50,9A,English,teacher5@highschool.com,104
+2,11:50,12:50,9A,SSC,teacher6@highschool.com,105
+2,13:20,14:10,9A,Science,teacher1@highschool.com,106
+2,14:10,14:50,9A,Mathematics,teacher2@highschool.com,107
+2,08:30,09:20,9B,Computer Science,teacher3@highschool.com,103
+2,09:20,09:50,9B,Hindi,teacher4@highschool.com,104
+2,10:10,11:00,9B,English,teacher5@highschool.com,105
+2,11:00,11:50,9B,SSC,teacher6@highschool.com,106
+2,11:50,12:50,9B,Science,teacher1@highschool.com,107
+2,13:20,14:10,9B,Mathematics,teacher2@highschool.com,108
+2,14:10,14:50,9B,Computer Science,teacher3@highschool.com,109
+2,08:30,09:20,9C,Hindi,teacher4@highschool.com,105
+2,09:20,09:50,9C,English,teacher5@highschool.com,106
+2,10:10,11:00,9C,SSC,teacher6@highschool.com,107
+2,11:00,11:50,9C,Science,teacher1@highschool.com,108
+2,11:50,12:50,9C,Mathematics,teacher2@highschool.com,109
+2,13:20,14:10,9C,Computer Science,teacher3@highschool.com,110
+2,14:10,14:50,9C,Hindi,teacher4@highschool.com,111
+2,08:30,09:20,10A,English,teacher5@highschool.com,107
+2,09:20,09:50,10A,SSC,teacher6@highschool.com,108
+2,10:10,11:00,10A,Science,teacher1@highschool.com,109
+2,11:00,11:50,10A,Mathematics,teacher2@highschool.com,110
+2,11:50,12:50,10A,Computer Science,teacher3@highschool.com,111
+2,13:20,14:10,10A,Hindi,teacher4@highschool.com,112
+2,14:10,14:50,10A,English,teacher5@highschool.com,113
+2,08:30,09:20,10B,SSC,teacher6@highschool.com,109
+2,09:20,09:50,10B,Science,teacher1@highschool.com,110
+2,10:10,11:00,10B,Mathematics,teacher2@highschool.com,111
+2,11:00,11:50,10B,Computer Science,teacher3@highschool.com,112
+2,11:50,12:50,10B,Hindi,teacher4@highschool.com,113
+2,13:20,14:10,10B,English,teacher5@highschool.com,114
+2,14:10,14:50,10B,SSC,teacher6@highschool.com,115
+2,08:30,09:20,10C,Science,teacher1@highschool.com,111
+2,09:20,09:50,10C,Mathematics,teacher2@highschool.com,112
+2,10:10,11:00,10C,Computer Science,teacher3@highschool.com,113
+2,11:00,11:50,10C,Hindi,teacher4@highschool.com,114
+2,11:50,12:50,10C,English,teacher5@highschool.com,115
+2,13:20,14:10,10C,SSC,teacher6@highschool.com,116
+2,14:10,14:50,10C,Science,teacher1@highschool.com,117
+2,08:30,09:20,11SCI,Mathematics,teacher2@highschool.com,113
+2,09:20,09:50,11SCI,Biology,teacher8@highschool.com,114
+2,10:10,11:00,11SCI,Computer Science,teacher3@highschool.com,115
+2,11:00,11:50,11SCI,Physics,teacher9@highschool.com,116
+2,11:50,12:45,11SCI,Chemistry,teacher7@highschool.com,117
+2,08:30,09:20,11COM,Mathematics,teacher2@highschool.com,115
+2,09:20,09:50,11COM,English,teacher5@highschool.com,116
+2,10:10,11:00,11COM,Accountancy,teacher11@highschool.com,117
+2,11:00,11:50,11COM,Business Studies,teacher12@highschool.com,118
+2,11:50,12:45,11COM,Economics,teacher10@highschool.com,119
+2,08:30,09:20,11HUM,English,teacher5@highschool.com,117
+2,09:20,09:50,11HUM,History,teacher14@highschool.com,118
+2,10:10,11:00,11HUM,Political Science,teacher15@highschool.com,119
+2,11:00,11:50,11HUM,Economics,teacher10@highschool.com,120
+2,11:50,12:45,11HUM,Psychology,teacher13@highschool.com,121
+2,08:30,09:20,12SCI,Physics,teacher9@highschool.com,119
+2,09:20,09:50,12SCI,Chemistry,teacher7@highschool.com,120
+2,10:10,11:00,12SCI,Mathematics,teacher2@highschool.com,121
+2,11:00,11:50,12SCI,Biology,teacher8@highschool.com,122
+2,11:50,12:45,12SCI,Computer Science,teacher3@highschool.com,123
+2,08:30,09:20,12COM,Business Studies,teacher12@highschool.com,121
+2,09:20,09:50,12COM,Economics,teacher10@highschool.com,122
+2,10:10,11:00,12COM,Mathematics,teacher2@highschool.com,123
+2,11:00,11:50,12COM,English,teacher5@highschool.com,124
+2,11:50,12:45,12COM,Accountancy,teacher11@highschool.com,125
+2,08:30,09:20,12HUM,Economics,teacher10@highschool.com,123
+2,09:20,09:50,12HUM,Psychology,teacher13@highschool.com,124
+2,10:10,11:00,12HUM,English,teacher5@highschool.com,125
+2,11:00,11:50,12HUM,History,teacher14@highschool.com,126
+2,11:50,12:45,12HUM,Political Science,teacher15@highschool.com,127
+3,08:30,09:20,9A,Computer Science,teacher3@highschool.com,101
+3,09:20,09:50,9A,Hindi,teacher4@highschool.com,102
+3,10:10,11:00,9A,English,teacher5@highschool.com,103
+3,11:00,11:50,9A,SSC,teacher6@highschool.com,104
+3,11:50,12:50,9A,Science,teacher1@highschool.com,105
+3,13:20,14:10,9A,Mathematics,teacher2@highschool.com,106
+3,14:10,14:50,9A,Computer Science,teacher3@highschool.com,107
+3,08:30,09:20,9B,Hindi,teacher4@highschool.com,103
+3,09:20,09:50,9B,English,teacher5@highschool.com,104
+3,10:10,11:00,9B,SSC,teacher6@highschool.com,105
+3,11:00,11:50,9B,Science,teacher1@highschool.com,106
+3,11:50,12:50,9B,Mathematics,teacher2@highschool.com,107
+3,13:20,14:10,9B,Computer Science,teacher3@highschool.com,108
+3,14:10,14:50,9B,Hindi,teacher4@highschool.com,109
+3,08:30,09:20,9C,English,teacher5@highschool.com,105
+3,09:20,09:50,9C,SSC,teacher6@highschool.com,106
+3,10:10,11:00,9C,Science,teacher1@highschool.com,107
+3,11:00,11:50,9C,Mathematics,teacher2@highschool.com,108
+3,11:50,12:50,9C,Computer Science,teacher3@highschool.com,109
+3,13:20,14:10,9C,Hindi,teacher4@highschool.com,110
+3,14:10,14:50,9C,English,teacher5@highschool.com,111
+3,08:30,09:20,10A,SSC,teacher6@highschool.com,107
+3,09:20,09:50,10A,Science,teacher1@highschool.com,108
+3,10:10,11:00,10A,Mathematics,teacher2@highschool.com,109
+3,11:00,11:50,10A,Computer Science,teacher3@highschool.com,110
+3,11:50,12:50,10A,Hindi,teacher4@highschool.com,111
+3,13:20,14:10,10A,English,teacher5@highschool.com,112
+3,14:10,14:50,10A,SSC,teacher6@highschool.com,113
+3,08:30,09:20,10B,Science,teacher1@highschool.com,109
+3,09:20,09:50,10B,Mathematics,teacher2@highschool.com,110
+3,10:10,11:00,10B,Computer Science,teacher3@highschool.com,111
+3,11:00,11:50,10B,Hindi,teacher4@highschool.com,112
+3,11:50,12:50,10B,English,teacher5@highschool.com,113
+3,13:20,14:10,10B,SSC,teacher6@highschool.com,114
+3,14:10,14:50,10B,Science,teacher1@highschool.com,115
+3,08:30,09:20,10C,Mathematics,teacher2@highschool.com,111
+3,09:20,09:50,10C,Computer Science,teacher3@highschool.com,112
+3,10:10,11:00,10C,Hindi,teacher4@highschool.com,113
+3,11:00,11:50,10C,English,teacher5@highschool.com,114
+3,11:50,12:50,10C,SSC,teacher6@highschool.com,115
+3,13:20,14:10,10C,Science,teacher1@highschool.com,116
+3,14:10,14:50,10C,Mathematics,teacher2@highschool.com,117
+3,08:30,09:20,11SCI,Biology,teacher8@highschool.com,113
+3,09:20,09:50,11SCI,Computer Science,teacher3@highschool.com,114
+3,10:10,11:00,11SCI,Physics,teacher9@highschool.com,115
+3,11:00,11:50,11SCI,Chemistry,teacher7@highschool.com,116
+3,11:50,12:45,11SCI,Mathematics,teacher2@highschool.com,117
+3,08:30,09:20,11COM,English,teacher5@highschool.com,115
+3,09:20,09:50,11COM,Accountancy,teacher11@highschool.com,116
+3,10:10,11:00,11COM,Business Studies,teacher12@highschool.com,117
+3,11:00,11:50,11COM,Economics,teacher10@highschool.com,118
+3,11:50,12:45,11COM,Mathematics,teacher2@highschool.com,119
+3,08:30,09:20,11HUM,History,teacher14@highschool.com,117
+3,09:20,09:50,11HUM,Political Science,teacher15@highschool.com,118
+3,10:10,11:00,11HUM,Economics,teacher10@highschool.com,119
+3,11:00,11:50,11HUM,Psychology,teacher13@highschool.com,120
+3,11:50,12:45,11HUM,English,teacher5@highschool.com,121
+3,08:30,09:20,12SCI,Chemistry,teacher7@highschool.com,119
+3,09:20,09:50,12SCI,Mathematics,teacher2@highschool.com,120
+3,10:10,11:00,12SCI,Biology,teacher8@highschool.com,121
+3,11:00,11:50,12SCI,Computer Science,teacher3@highschool.com,122
+3,11:50,12:45,12SCI,Physics,teacher9@highschool.com,123
+3,08:30,09:20,12COM,Economics,teacher10@highschool.com,121
+3,09:20,09:50,12COM,Mathematics,teacher2@highschool.com,122
+3,10:10,11:00,12COM,English,teacher5@highschool.com,123
+3,11:00,11:50,12COM,Accountancy,teacher11@highschool.com,124
+3,11:50,12:45,12COM,Business Studies,teacher12@highschool.com,125
+3,08:30,09:20,12HUM,Psychology,teacher13@highschool.com,123
+3,09:20,09:50,12HUM,English,teacher5@highschool.com,124
+3,10:10,11:00,12HUM,History,teacher14@highschool.com,125
+3,11:00,11:50,12HUM,Political Science,teacher15@highschool.com,126
+3,11:50,12:45,12HUM,Economics,teacher10@highschool.com,127
+4,08:30,09:20,9A,Hindi,teacher4@highschool.com,101
+4,09:20,09:50,9A,English,teacher5@highschool.com,102
+4,10:10,11:00,9A,SSC,teacher6@highschool.com,103
+4,11:00,11:50,9A,Science,teacher1@highschool.com,104
+4,11:50,12:50,9A,Mathematics,teacher2@highschool.com,105
+4,13:20,14:10,9A,Computer Science,teacher3@highschool.com,106
+4,14:10,14:50,9A,Hindi,teacher4@highschool.com,107
+4,08:30,09:20,9B,English,teacher5@highschool.com,103
+4,09:20,09:50,9B,SSC,teacher6@highschool.com,104
+4,10:10,11:00,9B,Science,teacher1@highschool.com,105
+4,11:00,11:50,9B,Mathematics,teacher2@highschool.com,106
+4,11:50,12:50,9B,Computer Science,teacher3@highschool.com,107
+4,13:20,14:10,9B,Hindi,teacher4@highschool.com,108
+4,14:10,14:50,9B,English,teacher5@highschool.com,109
+4,08:30,09:20,9C,SSC,teacher6@highschool.com,105
+4,09:20,09:50,9C,Science,teacher1@highschool.com,106
+4,10:10,11:00,9C,Mathematics,teacher2@highschool.com,107
+4,11:00,11:50,9C,Computer Science,teacher3@highschool.com,108
+4,11:50,12:50,9C,Hindi,teacher4@highschool.com,109
+4,13:20,14:10,9C,English,teacher5@highschool.com,110
+4,14:10,14:50,9C,SSC,teacher6@highschool.com,111
+4,08:30,09:20,10A,Science,teacher1@highschool.com,107
+4,09:20,09:50,10A,Mathematics,teacher2@highschool.com,108
+4,10:10,11:00,10A,Computer Science,teacher3@highschool.com,109
+4,11:00,11:50,10A,Hindi,teacher4@highschool.com,110
+4,11:50,12:50,10A,English,teacher5@highschool.com,111
+4,13:20,14:10,10A,SSC,teacher6@highschool.com,112
+4,14:10,14:50,10A,Science,teacher1@highschool.com,113
+4,08:30,09:20,10B,Mathematics,teacher2@highschool.com,109
+4,09:20,09:50,10B,Computer Science,teacher3@highschool.com,110
+4,10:10,11:00,10B,Hindi,teacher4@highschool.com,111
+4,11:00,11:50,10B,English,teacher5@highschool.com,112
+4,11:50,12:50,10B,SSC,teacher6@highschool.com,113
+4,13:20,14:10,10B,Science,teacher1@highschool.com,114
+4,14:10,14:50,10B,Mathematics,teacher2@highschool.com,115
+4,08:30,09:20,10C,Computer Science,teacher3@highschool.com,111
+4,09:20,09:50,10C,Hindi,teacher4@highschool.com,112
+4,10:10,11:00,10C,English,teacher5@highschool.com,113
+4,11:00,11:50,10C,SSC,teacher6@highschool.com,114
+4,11:50,12:50,10C,Science,teacher1@highschool.com,115
+4,13:20,14:10,10C,Mathematics,teacher2@highschool.com,116
+4,14:10,14:50,10C,Computer Science,teacher3@highschool.com,117
+4,08:30,09:20,11SCI,Computer Science,teacher3@highschool.com,113
+4,09:20,09:50,11SCI,Physics,teacher9@highschool.com,114
+4,10:10,11:00,11SCI,Chemistry,teacher7@highschool.com,115
+4,11:00,11:50,11SCI,Mathematics,teacher2@highschool.com,116
+4,11:50,12:45,11SCI,Biology,teacher8@highschool.com,117
+4,08:30,09:20,11COM,Accountancy,teacher11@highschool.com,115
+4,09:20,09:50,11COM,Business Studies,teacher12@highschool.com,116
+4,10:10,11:00,11COM,Economics,teacher10@highschool.com,117
+4,11:00,11:50,11COM,Mathematics,teacher2@highschool.com,118
+4,11:50,12:45,11COM,English,teacher5@highschool.com,119
+4,08:30,09:20,11HUM,Political Science,teacher15@highschool.com,117
+4,09:20,09:50,11HUM,Economics,teacher10@highschool.com,118
+4,10:10,11:00,11HUM,Psychology,teacher13@highschool.com,119
+4,11:00,11:50,11HUM,English,teacher5@highschool.com,120
+4,11:50,12:45,11HUM,History,teacher14@highschool.com,121
+4,08:30,09:20,12SCI,Mathematics,teacher2@highschool.com,119
+4,09:20,09:50,12SCI,Biology,teacher8@highschool.com,120
+4,10:10,11:00,12SCI,Computer Science,teacher3@highschool.com,121
+4,11:00,11:50,12SCI,Physics,teacher9@highschool.com,122
+4,11:50,12:45,12SCI,Chemistry,teacher7@highschool.com,123
+4,08:30,09:20,12COM,Mathematics,teacher2@highschool.com,121
+4,09:20,09:50,12COM,English,teacher5@highschool.com,122
+4,10:10,11:00,12COM,Accountancy,teacher11@highschool.com,123
+4,11:00,11:50,12COM,Business Studies,teacher12@highschool.com,124
+4,11:50,12:45,12COM,Economics,teacher10@highschool.com,125
+4,08:30,09:20,12HUM,English,teacher5@highschool.com,123
+4,09:20,09:50,12HUM,History,teacher14@highschool.com,124
+4,10:10,11:00,12HUM,Political Science,teacher15@highschool.com,125
+4,11:00,11:50,12HUM,Economics,teacher10@highschool.com,126
+4,11:50,12:45,12HUM,Psychology,teacher13@highschool.com,127
+5,08:30,09:20,9A,English,teacher5@highschool.com,101
+5,09:20,09:50,9A,SSC,teacher6@highschool.com,102
+5,10:10,11:00,9A,Science,teacher1@highschool.com,103
+5,11:00,11:50,9A,Mathematics,teacher2@highschool.com,104
+5,11:50,12:50,9A,Computer Science,teacher3@highschool.com,105
+5,13:20,14:10,9A,Hindi,teacher4@highschool.com,106
+5,14:10,14:50,9A,English,teacher5@highschool.com,107
+5,08:30,09:20,9B,SSC,teacher6@highschool.com,103
+5,09:20,09:50,9B,Science,teacher1@highschool.com,104
+5,10:10,11:00,9B,Mathematics,teacher2@highschool.com,105
+5,11:00,11:50,9B,Computer Science,teacher3@highschool.com,106
+5,11:50,12:50,9B,Hindi,teacher4@highschool.com,107
+5,13:20,14:10,9B,English,teacher5@highschool.com,108
+5,14:10,14:50,9B,SSC,teacher6@highschool.com,109
+5,08:30,09:20,9C,Science,teacher1@highschool.com,105
+5,09:20,09:50,9C,Mathematics,teacher2@highschool.com,106
+5,10:10,11:00,9C,Computer Science,teacher3@highschool.com,107
+5,11:00,11:50,9C,Hindi,teacher4@highschool.com,108
+5,11:50,12:50,9C,English,teacher5@highschool.com,109
+5,13:20,14:10,9C,SSC,teacher6@highschool.com,110
+5,14:10,14:50,9C,Science,teacher1@highschool.com,111
+5,08:30,09:20,10A,Mathematics,teacher2@highschool.com,107
+5,09:20,09:50,10A,Computer Science,teacher3@highschool.com,108
+5,10:10,11:00,10A,Hindi,teacher4@highschool.com,109
+5,11:00,11:50,10A,English,teacher5@highschool.com,110
+5,11:50,12:50,10A,SSC,teacher6@highschool.com,111
+5,13:20,14:10,10A,Science,teacher1@highschool.com,112
+5,14:10,14:50,10A,Mathematics,teacher2@highschool.com,113
+5,08:30,09:20,10B,Computer Science,teacher3@highschool.com,109
+5,09:20,09:50,10B,Hindi,teacher4@highschool.com,110
+5,10:10,11:00,10B,English,teacher5@highschool.com,111
+5,11:00,11:50,10B,SSC,teacher6@highschool.com,112
+5,11:50,12:50,10B,Science,teacher1@highschool.com,113
+5,13:20,14:10,10B,Mathematics,teacher2@highschool.com,114
+5,14:10,14:50,10B,Computer Science,teacher3@highschool.com,115
+5,08:30,09:20,10C,Hindi,teacher4@highschool.com,111
+5,09:20,09:50,10C,English,teacher5@highschool.com,112
+5,10:10,11:00,10C,SSC,teacher6@highschool.com,113
+5,11:00,11:50,10C,Science,teacher1@highschool.com,114
+5,11:50,12:50,10C,Mathematics,teacher2@highschool.com,115
+5,13:20,14:10,10C,Computer Science,teacher3@highschool.com,116
+5,14:10,14:50,10C,Hindi,teacher4@highschool.com,117
+5,08:30,09:20,11SCI,Physics,teacher9@highschool.com,113
+5,09:20,09:50,11SCI,Chemistry,teacher7@highschool.com,114
+5,10:10,11:00,11SCI,Mathematics,teacher2@highschool.com,115
+5,11:00,11:50,11SCI,Biology,teacher8@highschool.com,116
+5,11:50,12:45,11SCI,Computer Science,teacher3@highschool.com,117
+5,08:30,09:20,11COM,Business Studies,teacher12@highschool.com,115
+5,09:20,09:50,11COM,Economics,teacher10@highschool.com,116
+5,10:10,11:00,11COM,Mathematics,teacher2@highschool.com,117
+5,11:00,11:50,11COM,English,teacher5@highschool.com,118
+5,11:50,12:45,11COM,Accountancy,teacher11@highschool.com,119
+5,08:30,09:20,11HUM,Economics,teacher10@highschool.com,117
+5,09:20,09:50,11HUM,Psychology,teacher13@highschool.com,118
+5,10:10,11:00,11HUM,English,teacher5@highschool.com,119
+5,11:00,11:50,11HUM,History,teacher14@highschool.com,120
+5,11:50,12:45,11HUM,Political Science,teacher15@highschool.com,121
+5,08:30,09:20,12SCI,Biology,teacher8@highschool.com,119
+5,09:20,09:50,12SCI,Computer Science,teacher3@highschool.com,120
+5,10:10,11:00,12SCI,Physics,teacher9@highschool.com,121
+5,11:00,11:50,12SCI,Chemistry,teacher7@highschool.com,122
+5,11:50,12:45,12SCI,Mathematics,teacher2@highschool.com,123
+5,08:30,09:20,12COM,English,teacher5@highschool.com,121
+5,09:20,09:50,12COM,Accountancy,teacher11@highschool.com,122
+5,10:10,11:00,12COM,Business Studies,teacher12@highschool.com,123
+5,11:00,11:50,12COM,Economics,teacher10@highschool.com,124
+5,11:50,12:45,12COM,Mathematics,teacher2@highschool.com,125
+5,08:30,09:20,12HUM,History,teacher14@highschool.com,123
+5,09:20,09:50,12HUM,Political Science,teacher15@highschool.com,124
+5,10:10,11:00,12HUM,Economics,teacher10@highschool.com,125
+5,11:00,11:50,12HUM,Psychology,teacher13@highschool.com,126
+5,11:50,12:45,12HUM,English,teacher5@highschool.com,127
